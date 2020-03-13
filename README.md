@@ -4,16 +4,11 @@ Quote: If all mankind minus one were of one opinion, and only one person were of
 
 ---
 **Artifact:**
-|**Radio is my bomb**| **Box 1 Bewegingsmedia Archive** | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+|**Radio is my bomb**| **Box 1 + 7 Bewegingsmedia Archive** | Cool  |
+| ------------- |-------------|
+| https://search.iisg.amsterdam/Record/431007  | https://search.iisg.amsterdam/Record/431007 | 
+
 ---
-
-**Artifact:**
-
-**Radio is my bomb** [https://search.iisg.amsterdam/Record/431007](https://search.iisg.amsterdam/Record/431007)
 
 **Box 1 Bewegingsmedia Archive**
 [https://search.iisg.amsterdam/Record/431007](https://search.iisg.amsterdam/Record/431007)
