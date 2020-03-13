@@ -6,7 +6,7 @@ Quote: If all mankind minus one were of one opinion, and only one person were of
 **Artifact:**
 | **Radio is my bomb** | **Box 1 Bewegingsmedia Archive** |    |
 | ------------- |:-------------:| -----:|
-| [https://search.iisg.amsterdam/Record/431007 ]      | [ https://search.iisg.amsterdam/Record/431007 ]| $1600 |
+| [https://search.iisg.amsterdam/Record/431007 ]      | [ https://search.iisg.amsterdam/Record/431007 ]|  |
 
 
 
