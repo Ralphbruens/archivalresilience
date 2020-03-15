@@ -1,14 +1,15 @@
 # Archival Resilience: Bewegingsmedia
 
+> If all mankind minus one were of one opinion, and only one person were of the opposite opinion, mankind would be no more justified in silencing that one person than he, if he had the power, would be justified in silencing mankind.
+>
+> A Liberal defense of free speech by John Stuart Mill
+
 ## Table of Contents
 1. Artifacts
 2. Research
 3. Preservation and Experimenting
 4. Notes
 
-> If all mankind minus one were of one opinion, and only one person were of the opposite opinion, mankind would be no more justified in silencing that one person than he, if he had the power, would be justified in silencing mankind.
->
-> A Liberal defense of free speech by John Stuart Mill
 
 **Artifacts:**
 | **Radio is my bomb** | **Box 1&7 Bewegingsmedia Archive** |    
