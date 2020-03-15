@@ -20,13 +20,6 @@ A pirate radio how-to guide published by *Hooligan Press* in London in April, 19
 ![Radio is my Bomb, a DIY manual for pirates - Front cover ](/assets/images/rimb_front.png)
 ###### Front cover of 'Radio is my bomb - A DIY Manual for pirates' by Hooligan press.
 
-**Digital format:**
-
- | **Part 1** | **Part 2** |    
- | ------------- |-------------|
- | [Pdf](/assets/pdf/radio-is-my-bomb-part-1.pdf) | [Pdf](/assets/pdf/radio-is-my-bomb-part-2.pdf) |
-
-
 This artifact is a collection of information about pirate radio which is very interesting as an artifact for transcoding.
 This publication was released because it became much more difficult to set up an pirate station. This publication contains story of successful and unsuccessful stations and how can we learn form this for future pirate radio
 
@@ -55,6 +48,10 @@ Offshore radio is radio broadcasting from ships or fixed maritime structures. Of
 
 We can digitizing. But much in the text has been superseded by modern technology. So if we reproduce it for reference only. And how to preserve the digital data?
 
+**Digital format:**
+ | **Part 1** | **Part 2** |    
+ | ------------- |-------------|
+ | [Pdf](/assets/pdf/radio-is-my-bomb-part-1.pdf) | [Pdf](/assets/pdf/radio-is-my-bomb-part-2.pdf) |
 ---
 
 T**o audio:**
