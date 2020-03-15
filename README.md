@@ -16,10 +16,17 @@ Using the archive as a starting point for research is an interesting first step.
 ### Radio is my Bomb
 
 ![Radio is my Bomb, a DIY manual for pirates - Front cover ](/assets/images/rimb_front.png)
-![Radio is my Bomb, a DIY manual for pirates - Back cover ](/assets/images/rimb_back.png)
+Front cover of 'Radio is my bomb - A DIY Manual for pirates' by Hooligan press.
+[Part 1](r/assets/pdf/adio-is-my-bomb-part-1.pdf)
+[Part 2](r/assets/pdf/adio-is-my-bomb-part-1.pdf)
 
 
-Cover of 'Radio is my bomb - A DIY Manual for pirates' by Hooligan press.
+
+
+
+
+
+
 
 There is a value to act local. Create a (physical) network between different stations to provide and produce material for radio.
 
