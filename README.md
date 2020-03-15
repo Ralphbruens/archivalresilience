@@ -14,7 +14,7 @@
 4. [Preservation of the artifact](https://github.com/Ralphbruens/archivalresilience#Preservation-of-the-artifact)
     - [Concepts](https://github.com/Ralphbruens/archivalresilience#Concepts)
     - [Experiments of transcoding](https://github.com/Ralphbruens/archivalresilience#Experiments-of-transcoding)
-5. [Notes] (https://github.com/Ralphbruens/archivalresilience#Notes)
+5. [Notes](https://github.com/Ralphbruens/archivalresilience#Notes)
     - [References](https://github.com/Ralphbruens/archivalresilience#References)
     - [Terms](https://github.com/Ralphbruens/archivalresilience#Terms)
     - [Notes on transcoding the artifact](https://github.com/Ralphbruens/archivalresilience#Notes-on-transcoding-the-artifact)
