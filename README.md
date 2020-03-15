@@ -17,8 +17,8 @@ Using the archive as a starting point for research is an interesting first step.
 
 ![Radio is my Bomb, a DIY manual for pirates - Front cover ](/assets/images/rimb_front.png)
 Front cover of 'Radio is my bomb - A DIY Manual for pirates' by Hooligan press.
-[Part 1](r/assets/pdf/adio-is-my-bomb-part-1.pdf)
-[Part 2](r/assets/pdf/adio-is-my-bomb-part-1.pdf)
+[Part 1](/assets/pdf/adio-is-my-bomb-part-1.pdf)
+[Part 2](/assets/pdf/adio-is-my-bomb-part-1.pdf)
 
 
 
