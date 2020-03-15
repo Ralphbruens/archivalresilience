@@ -48,23 +48,19 @@ The term piracy more generally designated the unauthorized usage or reproduction
 
 Encryption, Open Sources, Download/Upload (Piratebay, MEGA etc)
 
+
+![Veronica ship ](/assets/images/loon.jpg)
 [Loon](https://loon.com/)
 
-Project Loon
 
 **Sneaker-net**
 
 Disappointed with the limitations of digital data transport, we turned to analogue transportation. Before digital networks, information was transported between two computers by simply using a floppy disk. This method of carrying digital information in an analogue way is called a ‘sneakernet’. Used in Burma in 2000 to smuggle data out of the country, it has been used for secure transportation of data. We chose to transport the data through sneaker net We knew people that travelled between the west and Iran, and we could use mobile devices to bring the stories back. All we had to do was to create an application capable of recording our stories with a relative safety.
 
 **Kim Dotcom on his own alternative internet.**
-
 > How would you like a new Internet that can't be controlled, censored or destroyed by Governments or Corporations? I'm working on it #MegaNet - Kim Dotcom
 
-
-
 # Preservation of the artifact
-
----
 
 **Digitizing: scanning the publication.**
 
