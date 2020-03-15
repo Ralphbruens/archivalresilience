@@ -1,6 +1,7 @@
 # Archival Resilience: Bewegingsmedia
 
 > Quote: If all mankind minus one were of one opinion, and only one person were of the opposite opinion, mankind would be no more justified in silencing that one person than he, if he had the power, would be justified in silencing mankind.
+
 > A Liberal defense of free speech by John Stuart Mill
 
 **Artifact:**
