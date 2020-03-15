@@ -100,8 +100,10 @@ Make a platform for people sharing their thoughts on making your own (pirate)Rad
 ![Raspberry Pi Test ](/assets/images/raspperrypitest.jpg)
 ###### Home experiment with Raspberry Pi, create my own mini pirate radio
 
-![OCR Test ](/assets/images/OCR.png)
-###### I used the OCR technology on the PDF but it has not the desired effect 
+![OCR Test ](/assets/images/ocr.png)
+###### I used the OCR technology on the PDF but it has not the desired effect
+
+[Website](assets/web/index.html)
 
 
 
