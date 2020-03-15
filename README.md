@@ -18,20 +18,16 @@ Using the archive as a starting point for research is an interesting first step.
 A pirate radio how-to guide published by *Hooligan Press* in London in April, 1987. The title comes from a quote from *Chantal Paternostre*, a Belgian anarchist who said it when arrested on trumped up terrorism charges. She worked for *Radio Air Libre*, a Brussels pirate radio station. She was eventually released from prison after more than a year detained: most of it in solitary confinement.
 
 ![Radio is my Bomb, a DIY manual for pirates - Front cover ](/assets/images/rimb_front.png)
-Front cover of 'Radio is my bomb - A DIY Manual for pirates' by Hooligan press.
+###### Front cover of 'Radio is my bomb - A DIY Manual for pirates' by Hooligan press.
 
-Digital format:
+**Digital format:**
 
-| **Part 1* |     
-| ------------- |
-| [Part 1](/assets/pdf/radio-is-my-bomb-part-1.pdf} | [Part 2](/assets/pdf/radio-is-my-bomb-part-2.pdf) |
+ | **Part 1** | **Part 2** |    
+ | ------------- |-------------|
+ | [Pdf](/assets/pdf/radio-is-my-bomb-part-1.pdf) | [Pdf](/assets/pdf/radio-is-my-bomb-part-2.pdf) |
 
-[Part 1](/assets/pdf/radio-is-my-bomb-part-1.pdf)
-
-[Part 2](/assets/pdf/radio-is-my-bomb-part-2.pdf)
 
 This artifact is a collection of information about pirate radio which is very interesting as an artifact for transcoding.
-
 This publication was released because it became much more difficult to set up an pirate station. This publication contains story of successful and unsuccessful stations and how can we learn form this for future pirate radio
 
 ### Pirate Radio
