@@ -102,8 +102,9 @@ Make a platform for people sharing their thoughts on making your own (pirate)Rad
 
 
 # Notes
-TO THE ARCHIVE: What is been lost in de transcoding. What am I going to test.  How to do document the artifact.
-RESEARCH: Why do we Care? What is the essence.  Making public. Distribution
+' TO THE ARCHIVE: What is been lost in de transcoding. What am I going to test.  How to do document the artifact.
+
+RESEARCH: Why do we Care? What is the essence.  Making public. Distribution '
 
 # References:
 
