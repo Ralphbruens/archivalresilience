@@ -91,7 +91,7 @@ Make a platform for people sharing their thoughts on making your own (pirate)Rad
 
 # Experiments of transcoding
 
-![Raspberry Pi Test ](/assets/images/raspberrypitest.jpg)
+![Raspberry Pi Test ](/assets/images/raspperrypitest.jpg)
 ###### Home experiment with Raspberry Pi, create my own mini pirate radio
 
 
