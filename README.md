@@ -9,7 +9,7 @@
 2. [Research the artifact](https://github.com/Ralphbruens/archivalresilience#Research-the-artifact)
     - [Radio Is My Bomb](https://github.com/Ralphbruens/archivalresilience#Radio-is-my-bomb)
     - [Pirate Radio](https://github.com/Ralphbruens/archivalresilience#Pirate-Radio)
-    - [Offshore Radio](https://github.com/Ralphbruens/archivalresilience#Offshore-Radio)
+    - [Offshore Radio](https://github.com/Ralphbruens/archivalresilience#Offshore)
 3. [In Contemporary Context](https://github.com/Ralphbruens/archivalresilience#In-contemporary-context)
 4. [Preservation of the artifact](https://github.com/Ralphbruens/archivalresilience#Preservation-of-the-artifact)
     - [Concepts](https://github.com/Ralphbruens/archivalresilience#Concepts)
