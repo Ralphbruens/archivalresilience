@@ -1,10 +1,10 @@
 # Archival Resilience: Bewegingsmedia
 
 ## Table of Contents
-1. [Example](#research)
-2. [Example2](#example2)
-3. [Third Example](#third-example)
-4. [Fourth Example](#fourth-examplehttpwwwfourthexamplecom)
+1. Artifacts
+2. Research
+3. Preservation and Experimenting
+4. Notes
 
 > If all mankind minus one were of one opinion, and only one person were of the opposite opinion, mankind would be no more justified in silencing that one person than he, if he had the power, would be justified in silencing mankind.
 >
