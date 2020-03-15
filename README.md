@@ -5,10 +5,19 @@
 > A Liberal defense of free speech by John Stuart Mill
 
 ## Table of Contents
-1. Artifacts
-2. Research
-3. Preservation and Experimenting
-4. Notes
+1. [Artifacts](https://github.com/Ralphbruens/archivalresilience#archival-resilience-bewegingsmedia)
+2. [Research the artifact](https://github.com/Ralphbruens/archivalresilience#Research-the-artifact)
+    1. [Radio Is My Bomb](https://github.com/Ralphbruens/archivalresilience#Radio-is-my-bomb)
+    2. [Pirate Radio](https://github.com/Ralphbruens/archivalresilience#Pirate-Radio)
+    3. [Offshore Radio](https://github.com/Ralphbruens/archivalresilience#Offshore-Radio)
+3. [In Contemporary Context](https://github.com/Ralphbruens/archivalresilience#In-contemporary-context)
+4. [Preservation of the artifact](https://github.com/Ralphbruens/archivalresilience#Preservation-of-the-artifact)
+    1. [Concepts](https://github.com/Ralphbruens/archivalresilience#Concepts)
+    2. [Experiments of transcoding](https://github.com/Ralphbruens/archivalresilience#Experiments-of-transcoding)
+5. Notes (https://github.com/Ralphbruens/archivalresilience#Notes)
+    1. [References](https://github.com/Ralphbruens/archivalresilience#References)
+    2. [Terms](https://github.com/Ralphbruens/archivalresilience#Terms)
+    3. [Notes on transcoding the artifact](https://github.com/Ralphbruens/archivalresilience#Notes-on-transcoding-the-artifact)
 
 
 **Artifacts:**
@@ -62,6 +71,7 @@ Disappointed with the limitations of digital data transport, we turned to analog
 
 # Preservation of the artifact
 
+### Concepts
 **Digitizing: scanning the publication.**
 
 We can digitizing. But much in the text has been superseded by modern technology. So if we reproduce it for reference only. And how to preserve the digital data?
