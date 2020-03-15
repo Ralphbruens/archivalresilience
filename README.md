@@ -95,22 +95,27 @@ Make a platform for people sharing their thoughts on making your own (pirate)Rad
 ###### Home experiment with Raspberry Pi, create my own mini pirate radio
 
 
+
+
+
+
+
 # Notes
 TO THE ARCHIVE: What is been lost in de transcoding. What am I going to test.  How to do document the artifact.
+RESEARCH: Why do we Care? What is the essence.  Making public. Distribution
 
 # References:
 
 [Pub](https://pub.sandberg.nl)
+###### PUB Sandberg
 
-PUB Sandberg
 
 [De wifi in de trein is volstrekt onveilig (en de NS doet er niets aan)](https://decorrespondent.nl/3166/de-wifi-in-de-trein-is-volstrekt-onveilig-en-de-ns-doet-er-niets-aan/97373496-af07ccc1)
-
-Safety of 'free' Wifi
+###### Safety of 'free' Wifi
 
 [Episode 50: Radio Free TrueAnon by TrueAnon](https://soundcloud.com/trueanonpod/radio-free-trueanon)
+###### Radio Free TrueAnon
 
-RESEARCH: Why do we Care? What is the essence.  Making public. Distribution
 
 ### Terms:
 
