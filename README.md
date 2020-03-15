@@ -15,8 +15,9 @@ Using the archive as a starting point for research is an interesting first step.
 <!-- [Collective research notes](https://www.notion.so/Collective-research-notes-6a7b3c50800f4f10875a4c99d4d460b3) -->
 ### Radio is my Bomb
 
-![Radio is my Bomb, a DIY manual for pirates - Front cover ](/assets/images/rimb_front.png)
-![Radio is my Bomb, a DIY manual for pirates - Back cover ](/assets/images/rimb_back.png)
+![Radio is my Bomb, a DIY manual for pirates - Front cover ](/assets/images/rimb_front.png){ width=50% }
+![Radio is my Bomb, a DIY manual for pirates - Back cover ](/assets/images/rimb_back.png){ width=50% }
+
 
 Cover of 'Radio is my bomb - A DIY Manual for pirates' by Hooligan press.
 
