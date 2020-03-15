@@ -15,26 +15,16 @@ Using the archive as a starting point for research is an interesting first step.
 <!-- [Collective research notes](https://www.notion.so/Collective-research-notes-6a7b3c50800f4f10875a4c99d4d460b3) -->
 ### Radio is my Bomb
 
-![Radio is my Bomb, a DIY manual for pirates - Front cover ](/assets/images/rimb_front.png)
-Front cover of 'Radio is my bomb - A DIY Manual for pirates' by Hooligan press.
-[Part 1](/assets/pdf/adio-is-my-bomb-part-1.pdf)
-[Part 2](/assets/pdf/adio-is-my-bomb-part-1.pdf)
-
-
-
-
-
-
-
-
-
-There is a value to act local. Create a (physical) network between different stations to provide and produce material for radio.
-
-![Archival%20Resilience%20Bewegingsmedia/2048x1152.jpg](Archival%20Resilience%20Bewegingsmedia/2048x1152.jpg)
-
-Veronica ship, Dutch offshore Radio Station
-
 A pirate radio how-to guide published by *Hooligan Press* in London in April, 1987. The title comes from a quote from *Chantal Paternostre*, a Belgian anarchist who said it when arrested on trumped up terrorism charges. She worked for *Radio Air Libre*, a Brussels pirate radio station. She was eventually released from prison after more than a year detained: most of it in solitary confinement.
+
+![Radio is my Bomb, a DIY manual for pirates - Front cover ](/assets/images/rimb_front/100x200.png)
+Front cover of 'Radio is my bomb - A DIY Manual for pirates' by Hooligan press.
+
+Digital format:
+
+[Part 1](/assets/pdf/radio-is-my-bomb-part-1.pdf)
+
+[Part 2](/assets/pdf/radio-is-my-bomb-part-2.pdf)
 
 This artifact is a collection of information about pirate radio which is very interesting as an artifact for transcoding.
 
@@ -49,6 +39,22 @@ Illegal use of licensed radio spectrum in several forms: Unlicensed operation, I
 ### Offshore
 
 Offshore radio is radio broadcasting from ships or fixed maritime structures. Offshore broadcasters are usually unlicenced but transmissions are legal in international waters. This is in contrast to broadcasting without a licence on land or within a nation's territorial waters, which is usually unlawful.
+
+
+
+
+
+
+There is a value to act local. Create a (physical) network between different stations to provide and produce material for radio.
+
+![Archival%20Resilience%20Bewegingsmedia/2048x1152.jpg](Archival%20Resilience%20Bewegingsmedia/2048x1152.jpg)
+
+Veronica ship, Dutch offshore Radio Station
+
+
+
+
+
 
 ### Preservation of the artifact
 
