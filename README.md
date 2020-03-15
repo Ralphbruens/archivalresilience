@@ -5,24 +5,18 @@
 > A Liberal defense of free speech by John Stuart Mill
 
 **Artifacts:**
-| **Radio is my bomb** | **Box 1 Bewegingsmedia Archive** |    
+| **Radio is my bomb** | **Box 1&7 Bewegingsmedia Archive** |    
 | ------------- |-------------|
 | [https://search.iisg.amsterdam/Record/431007 ] | [ https://search.iisg.amsterdam/Record/431007 ]|
 
-
----
-
 # Research the artifact
+Using the archive as a starting point for research is an interesting first step. By implying terms form archive to other search system and the other way around I find my way through the archive. I got interested by different artifact of Separatistic movements. Most of them were glorify violence and I started to question myself if there is also a non-violence way for resistance.
 
----
-
-Using the archive as a starting point for research is an interesting first step. By implying terms form archive to other search system and the other way around I find my way through the archive. I got interested by different artifact of Separatistic movements. Most of them were glorify violence and I started to question my self if there is also a non-violence way for resistance. I this the artifact about pirate radio and I saw that the archive is full information about.
-
-[Collective research notes](https://www.notion.so/Collective-research-notes-6a7b3c50800f4f10875a4c99d4d460b3)
-
+<!-- [Collective research notes](https://www.notion.so/Collective-research-notes-6a7b3c50800f4f10875a4c99d4d460b3) -->
 ### Radio is my Bomb
 
-![Archival%20Resilience%20Bewegingsmedia/radio_0.jpg](Archival%20Resilience%20Bewegingsmedia/radio_0.jpg)
+![Radio is my Bomb, a DIY manual for pirates - Front cover ](/assets/images/rimb_front.png)
+![Radio is my Bomb, a DIY manual for pirates - Back cover ](/assets/images/rimb_back.png)
 
 Cover of 'Radio is my bomb - A DIY Manual for pirates' by Hooligan press.
 
