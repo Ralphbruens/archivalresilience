@@ -40,6 +40,7 @@ Illegal use of licensed radio spectrum in several forms: Unlicensed operation, I
 
 Offshore radio is radio broadcasting from ships or fixed maritime structures. Offshore broadcasters are usually unlicenced but transmissions are legal in international waters. This is in contrast to broadcasting without a licence on land or within a nation's territorial waters, which is usually unlawful.
 
+![Veronica ship ](/assets/images/veronicaship.jpg)
 
 
 
