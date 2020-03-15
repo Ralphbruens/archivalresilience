@@ -103,7 +103,7 @@ Make a platform for people sharing their thoughts on making your own (pirate)Rad
 ![OCR Test ](/assets/images/ocr.png)
 ###### I used the OCR technology on the PDF but it has not the desired effect
 
-[Website](assets/web/index.html)
+[Website](https://ralphbruens.github.io/archivalresilience/assets/web/index.html)
 
 
 
