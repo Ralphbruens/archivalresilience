@@ -117,7 +117,6 @@ Make a platform for people sharing their thoughts on making your own (pirate)Rad
 ###### PUB Sandberg
 
 [Loon](https://loon.com/)
-![Loon balloon](/assets/images/loon.jpg)
 ###### Loon Project
 
 [De wifi in de trein is volstrekt onveilig (en de NS doet er niets aan)](https://decorrespondent.nl/3166/de-wifi-in-de-trein-is-volstrekt-onveilig-en-de-ns-doet-er-niets-aan/97373496-af07ccc1)
