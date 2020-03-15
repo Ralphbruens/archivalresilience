@@ -1,7 +1,7 @@
 # Archival Resilience: Bewegingsmedia
 
 ## Table of Contents
-1. [Example](#Research the artifact)
+1. [Example](#research)
 2. [Example2](#example2)
 3. [Third Example](#third-example)
 4. [Fourth Example](#fourth-examplehttpwwwfourthexamplecom)
@@ -15,7 +15,7 @@
 | ------------- |-------------|
 | [https://search.iisg.amsterdam/Record/431007 ] | [ https://search.iisg.amsterdam/Record/431007 ]|
 
-# Research the artifact
+# Research the artifact #research
 Using the archive as a starting point for research is an interesting first step. By implying terms form archive to other search system and the other way around I find my way through the archive. I got interested by different artifact of Separatistic movements. Most of them were glorify violence and I started to question myself if there is also a non-violence way for resistance.
 
 <!-- [Collective research notes](https://www.notion.so/Collective-research-notes-6a7b3c50800f4f10875a4c99d4d460b3) -->
