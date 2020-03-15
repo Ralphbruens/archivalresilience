@@ -15,7 +15,7 @@
 | ------------- |-------------|
 | [https://search.iisg.amsterdam/Record/431007 ] | [ https://search.iisg.amsterdam/Record/431007 ]|
 
-# Research the artifact #research
+# Research the artifact
 Using the archive as a starting point for research is an interesting first step. By implying terms form archive to other search system and the other way around I find my way through the archive. I got interested by different artifact of Separatistic movements. Most of them were glorify violence and I started to question myself if there is also a non-violence way for resistance.
 
 <!-- [Collective research notes](https://www.notion.so/Collective-research-notes-6a7b3c50800f4f10875a4c99d4d460b3) -->
@@ -53,8 +53,7 @@ The term piracy more generally designated the unauthorized usage or reproduction
 Encryption, Open Sources, Download/Upload (Piratebay, MEGA etc)
 
 
-[Loon](https://loon.com/)
--
+##[Loon](https://loon.com/)
 ![Loon balloon](/assets/images/loon.jpg)
 
 **Sneaker-net**
