@@ -1,5 +1,11 @@
 # Archival Resilience: Bewegingsmedia
 
+## Table of Contents
+1. [Example](#Research the artifact)
+2. [Example2](#example2)
+3. [Third Example](#third-example)
+4. [Fourth Example](#fourth-examplehttpwwwfourthexamplecom)
+
 > If all mankind minus one were of one opinion, and only one person were of the opposite opinion, mankind would be no more justified in silencing that one person than he, if he had the power, would be justified in silencing mankind.
 >
 > A Liberal defense of free speech by John Stuart Mill
@@ -36,12 +42,10 @@ Offshore radio is radio broadcasting from ships or fixed maritime structures. Of
 ![Veronica ship ](/assets/images/veronicaship.jpg)
 ###### Veronica ship, Dutch offshore Radio Station
 
-
 > There is a value to act local. Create a (physical) network between different stations to provide and produce material for radio.
 
 # In contemporary context
 
----
 ### Piracy
 
 The term piracy more generally designated the unauthorized usage or reproduction of copyright or patent-protected material. This is almost a far cry from the word’s original etymology.
@@ -49,9 +53,9 @@ The term piracy more generally designated the unauthorized usage or reproduction
 Encryption, Open Sources, Download/Upload (Piratebay, MEGA etc)
 
 
-![Veronica ship ](/assets/images/loon.jpg)
 [Loon](https://loon.com/)
-
+-
+![Loon balloon](/assets/images/loon.jpg)
 
 **Sneaker-net**
 
