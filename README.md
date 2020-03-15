@@ -1,40 +1,18 @@
 # Archival Resilience: Bewegingsmedia
 
-> Quote: If all mankind minus one were of one opinion, and only one person were of the opposite opinion, mankind would be no more justified in silencing that one person than he, if he had the power, would be justified in silencing mankind.
+> If all mankind minus one were of one opinion, and only one person were of the opposite opinion, mankind would be no more justified in silencing that one person than he, if he had the power, would be justified in silencing mankind.
 >
 > A Liberal defense of free speech by John Stuart Mill
 
-**Artifact:**
-| **Radio is my bomb** | **Box 1 Bewegingsmedia Archive** |    |
+**Artifacts:**
+| **Radio is my bomb** | **Box 1 Bewegingsmedia Archive** |    
 | ------------- |:-------------:| -----:|
-| [https://search.iisg.amsterdam/Record/431007 ]      | [ https://search.iisg.amsterdam/Record/431007 ]|  |
-
+| [https://search.iisg.amsterdam/Record/431007 ]      | [ https://search.iisg.amsterdam/Record/431007 ]|
 
 
 ---
 
-**Box 1 Bewegingsmedia Archive**
-[https://search.iisg.amsterdam/Record/431007](https://search.iisg.amsterdam/Record/431007)
-
-[Collective research notes](https://www.notion.so/Collective-research-notes-6a7b3c50800f4f10875a4c99d4d460b3)
-
-[Archive visit #1](https://www.notion.so/Archive-visit-1-c3e791c019da4d20b08c727dd5fedd9c)
-
-[Archive visit #2](https://www.notion.so/Archive-visit-2-181e4b8cdd93400c828414048028eeeb)
-
-[Experiments](https://www.notion.so/Experiments-770962fc55a34ab5a833ef01e458df34)
-
-[Global Research resources](https://www.notion.so/a2b048d979b94dde8d81aa79f0412620)
-
-[Lists](https://www.notion.so/b274517ec59d434597abbe3592ff18a0)
-
-[Sources](https://www.notion.so/eff4687411604db2b773bc4bb82dc647)
-
-### References:
-
----
-
-### Research the artifact
+# Research the artifact
 
 ---
 
