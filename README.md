@@ -39,41 +39,9 @@ Offshore radio is radio broadcasting from ships or fixed maritime structures. Of
 
 > There is a value to act local. Create a (physical) network between different stations to provide and produce material for radio.
 
-
-# Preservation of the artifact
-
----
-
-**Digitizing: scanning the publication.**
-
-We can digitizing. But much in the text has been superseded by modern technology. So if we reproduce it for reference only. And how to preserve the digital data?
-
-**Digital format:**
- | **Part 1** | **Part 2** |    
- | ------------- |-------------|
- | [Pdf](/assets/pdf/radio-is-my-bomb-part-1.pdf) | [Pdf](/assets/pdf/radio-is-my-bomb-part-2.pdf) |
----
-
-T**o audio:**
-
-Using the techniques inside the publication to make a physchial reproduction of the Diy Manual which send out audio/produce audio.
+# In contemporary context
 
 ---
-
-**Translate to Instruction (Again)**  
-
-Making an instruction for translation or recreation. A system that flexible to make for continuous refreshment. A linguistic solution. But after year do we still speak the same language and how to preserve the instruction?
-
-![Archival%20Resilience%20Bewegingsmedia/unnamed.jpg](Archival%20Resilience%20Bewegingsmedia/unnamed.jpg)
-
-Home experiment with Raspberry Pi, create my own mini pirate radio
-
----
-
-## In contemporary context
-
----
-
 ### Piracy
 
 The term piracy more generally designated the unauthorized usage or reproduction of copyright or patent-protected material. This is almost a far cry from the word’s original etymology.
@@ -92,13 +60,45 @@ Disappointed with the limitations of digital data transport, we turned to analog
 
 > How would you like a new Internet that can't be controlled, censored or destroyed by Governments or Corporations? I'm working on it #MegaNet - Kim Dotcom
 
-### Notes
+
+
+# Preservation of the artifact
 
 ---
 
+**Digitizing: scanning the publication.**
+
+We can digitizing. But much in the text has been superseded by modern technology. So if we reproduce it for reference only. And how to preserve the digital data?
+
+**Digital format:**
+ | **Part 1** | **Part 2** |    
+ | ------------- |-------------|
+ | [Pdf](/assets/pdf/radio-is-my-bomb-part-1.pdf) | [Pdf](/assets/pdf/radio-is-my-bomb-part-2.pdf) |
+
+**Audio:**
+Using the techniques inside the publication to make a physchial reproduction of the Diy Manual which send out audio/produce audio.
+
+**Video:**
+Using video as a tool to make DIY Instructions. It's a contemporary way of communicating.
+
+**Translate to Instruction (Again)**  
+Making an instruction for translation or recreation. A system that flexible to make for continuous refreshment. A linguistic solution. But after year do we still speak the same language and how to preserve the instruction?
+
+**Make an online forum**
+Make a platform for people sharing their thoughts on making your own (pirate)Radio but also about sharing the infromation of Part one of the artifact.
+
+
+
+# Experiments of transcoding
+
+![Raspberry Pi Test ](/assets/images/raspberrypitest.jpg)
+###### Home experiment with Raspberry Pi, create my own mini pirate radio
+
+
+# Notes
 TO THE ARCHIVE: What is been lost in de transcoding. What am I going to test.  How to do document the artifact.
 
-### References:
+# References:
 
 [Pub](https://pub.sandberg.nl)
 
