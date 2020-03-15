@@ -135,6 +135,8 @@ HAM radio (controlled not regulated)
 
 Encrypted (backdoor question??)
 
+Web 2.0
+
 ```
 
 ### Notes on transcoding the artifact:

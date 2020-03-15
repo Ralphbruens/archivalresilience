@@ -1,0 +1,90 @@
+/* FONT */
+@import url('https://fonts.googleapis.com/css2?family=Anonymous+Pro:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+
+/* BASE */
+
+*,
+*:before,
+*:after {
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body,html {
+    height: 100%;
+    background: #FFF;
+    font-size: 16px;
+}
+
+article, aside, details, figcaption, figure,
+footer, header, main, menu, nav, section, summary {
+  /* Add correct display for IE 9- and some newer browsers */
+  display: block;
+}
+
+::-moz-selection {
+  background: none;
+  color: none;
+}
+
+::selection {
+  background: none;
+  color: none;
+}
+
+img {
+  width: 100%;
+}
+
+/* GRID & LAYOUT*/
+
+.maincontainer{
+  font-size: 1em;;
+  width:100%;
+  height:100%;
+  vertical-align: top;
+}
+
+.gutter {
+  margin-left: 0.5%;
+  margin-right: 0.5%;
+}
+
+.column {
+  color:red;
+  position: relative;
+  float:left;
+  display: inline-block;
+  width:100%;
+  height:100%;
+}
+
+/* When you change the size of the gutter make sure
+that you change the size of the (sub)column
+When Gutter: margin 0.5%
+2 columns = width: 48%
+4 columns = wdith: 24% */
+
+.subcolumn {
+  color:red;
+  position: absolute;
+  display: inline-block;
+  width: 50%;
+  height:100%;
+  vertical-align: top;
+}
+
+h1{ font-size: 5em;
+  color: transparent;
+  font-family: 'Anonymous Pro', monospace;
+  position: fixed;
+  text-shadow: 0px 0px 8px red;
+}
+p{
+  font-size: 1em;
+
+  font-family: 'Anonymous Pro', monospace;
+}
+
+/* Subcolumn inside one Column */
