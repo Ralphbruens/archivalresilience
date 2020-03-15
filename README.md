@@ -16,7 +16,7 @@ Using the archive as a starting point for research is an interesting first step.
 ### Radio is my Bomb
 
 ![Radio is my Bomb, a DIY manual for pirates - Front cover ](/assets/images/rimb_front.png){ width=50% }
-![Radio is my Bomb, a DIY manual for pirates - Back cover ](/assets/images/rimb_back.png){ width=50% }
+![Radio is my Bomb, a DIY manual for pirates - Back cover ](/assets/images/rimb_back.png | width=50% )
 
 
 Cover of 'Radio is my bomb - A DIY Manual for pirates' by Hooligan press.
