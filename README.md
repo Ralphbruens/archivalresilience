@@ -102,12 +102,13 @@ Make a platform for people sharing their thoughts on making your own (pirate)Rad
 
 
 # Notes
-' TO THE ARCHIVE: What is been lost in de transcoding. What am I going to test.  How to do document the artifact.
+**Quick notes:**
+ | **To the archive** | **Research** |    
+ | ------------- |-------------|
+ | What is been lost in de transcoding. What am I going to test.  How to do document the artifact.| Why do we Care? What is the essence.  Making public. Distribution |
 
-RESEARCH: Why do we Care? What is the essence.  Making public. Distribution '
 
-# References:
-
+### References:
 [Pub](https://pub.sandberg.nl)
 ###### PUB Sandberg
 
@@ -118,7 +119,7 @@ RESEARCH: Why do we Care? What is the essence.  Making public. Distribution '
 [Episode 50: Radio Free TrueAnon by TrueAnon](https://soundcloud.com/trueanonpod/radio-free-trueanon)
 ###### Radio Free TrueAnon
 
-
+```
 ### Terms:
 
 Cloudcaptive
@@ -128,6 +129,7 @@ Network spoofing
 HAM radio (controlled not regulated)
 
 Encrypted (backdoor question??)
+```
 
 ### Notes on transcoding the artifact:
 
