@@ -22,6 +22,10 @@ Front cover of 'Radio is my bomb - A DIY Manual for pirates' by Hooligan press.
 
 Digital format:
 
+| **Part 1* |     
+| ------------- |
+| [Part 1](/assets/pdf/radio-is-my-bomb-part-1.pdf} | [Part 2](/assets/pdf/radio-is-my-bomb-part-2.pdf) |
+
 [Part 1](/assets/pdf/radio-is-my-bomb-part-1.pdf)
 
 [Part 2](/assets/pdf/radio-is-my-bomb-part-2.pdf)
