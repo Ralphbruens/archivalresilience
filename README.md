@@ -52,12 +52,6 @@ The term piracy more generally designated the unauthorized usage or reproduction
 
 Encryption, Open Sources, Download/Upload (Piratebay, MEGA etc)
 
-
-[Loon](https://loon.com/)
-
-
-![Loon balloon](/assets/images/loon.jpg)
-
 **Sneaker-net**
 
 Disappointed with the limitations of digital data transport, we turned to analogue transportation. Before digital networks, information was transported between two computers by simply using a floppy disk. This method of carrying digital information in an analogue way is called a ‘sneakernet’. Used in Burma in 2000 to smuggle data out of the country, it has been used for secure transportation of data. We chose to transport the data through sneaker net We knew people that travelled between the west and Iran, and we could use mobile devices to bring the stories back. All we had to do was to create an application capable of recording our stories with a relative safety.
@@ -100,23 +94,28 @@ Make a platform for people sharing their thoughts on making your own (pirate)Rad
 
 
 
+
 # Notes
 **Quick notes:**
  | **To the archive** | **Research** |    
  | ------------- |-------------|
  | What is been lost in de transcoding. What am I going to test.  How to do document the artifact.| Why do we Care? What is the essence.  Making public. Distribution |
 
-
 ### References:
 [Pub](https://pub.sandberg.nl)
 ###### PUB Sandberg
 
+[Loon](https://loon.com/)
+![Loon balloon](/assets/images/loon.jpg)
+###### Loon Project
 
 [De wifi in de trein is volstrekt onveilig (en de NS doet er niets aan)](https://decorrespondent.nl/3166/de-wifi-in-de-trein-is-volstrekt-onveilig-en-de-ns-doet-er-niets-aan/97373496-af07ccc1)
 ###### Safety of 'free' Wifi
 
 [Episode 50: Radio Free TrueAnon by TrueAnon](https://soundcloud.com/trueanonpod/radio-free-trueanon)
 ###### Radio Free TrueAnon
+
+
 
 ### Terms:
 ```
