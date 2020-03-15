@@ -100,7 +100,6 @@ Make a platform for people sharing their thoughts on making your own (pirate)Rad
 
 
 
-
 # Notes
 **Quick notes:**
  | **To the archive** | **Research** |    
@@ -119,9 +118,8 @@ Make a platform for people sharing their thoughts on making your own (pirate)Rad
 [Episode 50: Radio Free TrueAnon by TrueAnon](https://soundcloud.com/trueanonpod/radio-free-trueanon)
 ###### Radio Free TrueAnon
 
-```
 ### Terms:
-
+```
 Cloudcaptive
 
 Network spoofing
@@ -129,10 +127,11 @@ Network spoofing
 HAM radio (controlled not regulated)
 
 Encrypted (backdoor question??)
+
 ```
 
 ### Notes on transcoding the artifact:
-
+```
 What is the digital matrial of the publication
 
 What are the digital platform (recapturing)
@@ -150,3 +149,4 @@ What kind of tools can I use
 Setting up an own server
 
 Morse code
+```
