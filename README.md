@@ -106,7 +106,9 @@ Make a platform for people sharing their thoughts on making your own (pirate)Rad
 [Website](https://ralphbruens.github.io/archivalresilience/assets/web/index.html)
 
 
-
+[https://www.youtube.com/channel/UCBS_w8jnLaJKNyx4r4EPJ3g]
+[https://www.youtube.com/watch?v=cE5evaVNcL0&feature=youtu.be]
+##### A youtube channel
 
 # Notes
 **Quick notes:**
