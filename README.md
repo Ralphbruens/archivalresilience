@@ -107,7 +107,10 @@ Make a platform for people sharing their thoughts on making your own (pirate)Rad
 
 
 [https://www.youtube.com/channel/UCBS_w8jnLaJKNyx4r4EPJ3g]
-[https://www.youtube.com/watch?v=cE5evaVNcL0&feature=youtu.be]
+
+[![Set up a PIRATE RADIO - Introduction (link in description)](http://img.youtube.com/vi/cE5evaVNcL0/0.jpg)](http://www.youtube.com/watch?v=cE5evaVNcL0 "Set up a PIRATE RADIO - Introduction (link in description)")
+
+
 ##### A youtube channel
 
 # Notes
