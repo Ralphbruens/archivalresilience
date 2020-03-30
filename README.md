@@ -117,7 +117,7 @@ Make a platform for people sharing their thoughts on making your own (pirate)Rad
 ### LAB Platform
 ![Sketch Platform](/assets/images/sketch.png)
 
-
+[LAB](http://lab.ralphbruens.com)
 
 # Notes
 **Quick notes:**
