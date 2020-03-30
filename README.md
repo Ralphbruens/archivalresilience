@@ -113,6 +113,12 @@ Make a platform for people sharing their thoughts on making your own (pirate)Rad
 
 ##### A youtube channel
 
+
+### LAB Platform
+![Sketch Platform](/assets/images/sketch.png)
+
+
+
 # Notes
 **Quick notes:**
  | **To the archive** | **Research** |    
