@@ -15,7 +15,7 @@
     - [Concepts](https://github.com/Ralphbruens/archivalresilience#Concepts)
     - [Experiments of transcoding](https://github.com/Ralphbruens/archivalresilience#Experiments-of-transcoding)
         - [LAB](https://github.com/Ralphbruens/archivalresilience#LAB-Platform)
-        - Trading Card Game(https://github.com/Ralphbruens/archivalresilience#Trading-Card-Game)
+        - [Trading Card Game](https://github.com/Ralphbruens/archivalresilience#Trading-Card-Game)
 5. [Notes](https://github.com/Ralphbruens/archivalresilience#Notes)
     - [References](https://github.com/Ralphbruens/archivalresilience#References)
     - [Terms](https://github.com/Ralphbruens/archivalresilience#Terms)
@@ -71,6 +71,8 @@ Disappointed with the limitations of digital data transport, we turned to analog
 **Kim Dotcom on his own alternative internet.**
 > How would you like a new Internet that can't be controlled, censored or destroyed by Governments or Corporations? I'm working on it #MegaNet - Kim Dotcom
 
+***
+
 # Preservation of the artifact
 
 ### Concepts
@@ -95,7 +97,7 @@ Making an instruction for translation or recreation. A system that flexible to m
 **Make an online forum**
 Make a platform for people sharing their thoughts on making your own (pirate)Radio but also about sharing the infromation of Part one of the artifact.
 
-
+***
 
 # Experiments of transcoding
 
@@ -115,17 +117,15 @@ Make a platform for people sharing their thoughts on making your own (pirate)Rad
 
 ##### A youtube channel
 
-
+***
 ## LAB Platform 
 ![Sketch Platform](/assets/images/sketch.png)
 
 [LAB](http://lab.ralphbruens.com)
 
 ##### Making my own webserver
-Using a RaspberryPi. Start to host the LAB Platform on selfmade, 'indipented webserver:
-The Process 
-
-
+Using a RaspberryPi. Start to host the LAB Platform on selfmade, 'independent' webserver:
+The Process:
  | **Materials** |    
  | ------------- |
  | Raspberry Pi + SD Card| 
@@ -133,22 +133,26 @@ The Process
  | Keyboard| 
  
  ![Materials](/assets/images/serveronline_03.jpg)
+ > The webserver!
  
  To access the server on the raspberry pi I installed Raspbian and Apache2 on the SD card. 
- ![PC Screen](/assets/images/serveronline_04.jpg)   ![Apache2](/assets/images/serveronline_05.png)
-
+ ![PC Screen](/assets/images/serveronline_04.jpg) 
+  > Termianl screen for intalling the webserver
+ ![Apache2](/assets/images/serveronline_05.png)
+ > It's Working, ITS WORKING (!!) - Anakin Skywalker
  
  Then I had to install SSH file to access the server via Cyberduck. 
 Now I change the index.html file. 
  
  ![File](/assets/images/serveronline_01.png) 
-
+ > First change of the Index.html file
  
  TO DO: I have to solve how to add assets to the server to load font/images
  
   ![File](/assets/images/serveronline_02.png)
-  Html including Styles and JS
-  
+  >  Html including Styles
+***
+
 ## Trading Card Game
 
 Breaking the artifact into a trading card system. Differet artwork, different information and the complete set will rebuild the whole artifact.
@@ -157,9 +161,11 @@ Three Different Cards: -Information Card -Radio Station Card and -Instruction Ca
 
 ![Card](/assets/images/cardsprocess.jpg) 
 ![Card](/assets/images/cardsprocess2.jpg) 
+>  Sketches Cards
 
 TO DO: Invent Card Game rules. (Build your own radio ? )
 
+***
 # Notes
 **Quick notes:**
  | **To the archive** | **Research** |    
