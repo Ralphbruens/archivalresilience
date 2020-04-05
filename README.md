@@ -147,7 +147,14 @@ Now I change the index.html file.
  
   ![File](/assets/images/serveronline_02.png)
   Html including Styles and JS
- 
+  
+## Trading Card Game
+
+Break up the artifact into a trading card system. Differet artwork, different information and the complete set will rebuild the whole artifact.
+
+![Card](/assets/images/cardprocess.jpg) 
+![Card](/assets/images/cardprocess2.jpg) 
+
 
 # Notes
 **Quick notes:**
