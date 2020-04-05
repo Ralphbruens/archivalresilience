@@ -14,6 +14,7 @@
 4. [Preservation of the artifact](https://github.com/Ralphbruens/archivalresilience#Preservation-of-the-artifact)
     - [Concepts](https://github.com/Ralphbruens/archivalresilience#Concepts)
     - [Experiments of transcoding](https://github.com/Ralphbruens/archivalresilience#Experiments-of-transcoding)
+        - [LAB](https://github.com/Ralphbruens/archivalresilience#LAB-Platform)
 5. [Notes](https://github.com/Ralphbruens/archivalresilience#Notes)
     - [References](https://github.com/Ralphbruens/archivalresilience#References)
     - [Terms](https://github.com/Ralphbruens/archivalresilience#Terms)
@@ -114,7 +115,7 @@ Make a platform for people sharing their thoughts on making your own (pirate)Rad
 ##### A youtube channel
 
 
-### LAB Platform 
+## LAB Platform 
 ![Sketch Platform](/assets/images/sketch.png)
 
 [LAB](http://lab.ralphbruens.com)
