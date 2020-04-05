@@ -15,6 +15,7 @@
     - [Concepts](https://github.com/Ralphbruens/archivalresilience#Concepts)
     - [Experiments of transcoding](https://github.com/Ralphbruens/archivalresilience#Experiments-of-transcoding)
         - [LAB](https://github.com/Ralphbruens/archivalresilience#LAB-Platform)
+        - Trading Card Game(https://github.com/Ralphbruens/archivalresilience#Trading-Card-Game)
 5. [Notes](https://github.com/Ralphbruens/archivalresilience#Notes)
     - [References](https://github.com/Ralphbruens/archivalresilience#References)
     - [Terms](https://github.com/Ralphbruens/archivalresilience#Terms)
@@ -150,11 +151,14 @@ Now I change the index.html file.
   
 ## Trading Card Game
 
-Break up the artifact into a trading card system. Differet artwork, different information and the complete set will rebuild the whole artifact.
+Breaking the artifact into a trading card system. Differet artwork, different information and the complete set will rebuild the whole artifact.
 
-![Card](/assets/images/cardprocess.jpg) 
-![Card](/assets/images/cardprocess2.jpg) 
+Three Different Cards: -Information Card -Radio Station Card and -Instruction Card
 
+![Card](/assets/images/cardsprocess.jpg) 
+![Card](/assets/images/cardsprocess2.jpg) 
+
+TO DO: Invent Card Game rules. (Build your own radio ? )
 
 # Notes
 **Quick notes:**
