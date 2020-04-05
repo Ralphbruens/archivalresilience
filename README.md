@@ -109,21 +109,20 @@ Make a platform for people sharing their thoughts on making your own (pirate)Rad
 
 [Website](https://ralphbruens.github.io/archivalresilience/assets/web/index.html)
 
-
+##### A youtube channel
 [https://www.youtube.com/channel/UCBS_w8jnLaJKNyx4r4EPJ3g]
 
 [![Set up a PIRATE RADIO - Introduction (link in description)](http://img.youtube.com/vi/cE5evaVNcL0/0.jpg)](http://www.youtube.com/watch?v=cE5evaVNcL0 "Set up a PIRATE RADIO - Introduction (link in description)")
 
 
-##### A youtube channel
-
 ***
+
 ## LAB Platform 
 ![Sketch Platform](/assets/images/sketch.png)
 
 [LAB](http://lab.ralphbruens.com)
 
-##### Making my own webserver
+### Making my own webserver
 Using a RaspberryPi. Start to host the LAB Platform on selfmade, 'independent' webserver:
 The Process:
  | **Materials** |    
@@ -137,7 +136,8 @@ The Process:
  
  To access the server on the raspberry pi I installed Raspbian and Apache2 on the SD card. 
  ![PC Screen](/assets/images/serveronline_04.jpg) 
-  > Termianl screen for intalling the webserver
+  > Terminal screen for intalling the webserver
+  
  ![Apache2](/assets/images/serveronline_05.png)
  > It's Working, ITS WORKING (!!) - Anakin Skywalker
  
@@ -151,6 +151,7 @@ Now I change the index.html file.
  
   ![File](/assets/images/serveronline_02.png)
   >  Html including Styles
+  
 ***
 
 ## Trading Card Game
