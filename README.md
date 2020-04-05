@@ -137,11 +137,12 @@ The Process
  Then I had to install SSH to access the server via Cyberduck. 
  I can change the index.html file. 
  
- ![File](/assets/images/serveronline_01.jpg)
+ ![File](/assets/images/serveronline_01.png)
+ ![File](/assets/images/serveronline_06.jpg)
  
  TO DO: I have to solve how to add assets to the server to load font/images
  
-  ![File](/assets/images/serveronline_02.jpg)
+  ![File](/assets/images/serveronline_02.png)
   Html including Styles and JS
  
 
