@@ -114,10 +114,36 @@ Make a platform for people sharing their thoughts on making your own (pirate)Rad
 ##### A youtube channel
 
 
-### LAB Platform
+### LAB Platform 
 ![Sketch Platform](/assets/images/sketch.png)
 
 [LAB](http://lab.ralphbruens.com)
+
+##### Making my own webserver
+Using a RaspberryPi. Start to host the LAB Platform on selfmade, 'indipented webserver:
+The Process 
+
+![Materials](/assets/images/serveronline_03.jpg)
+ | **Materials** |    
+ | ------------- |
+ | Raspberry Pi + SD Card| 
+ | Internet Cabel| 
+ | Keyboard| 
+ 
+ To access the server on the raspberry pi I installed Raspbian and Apache2 on the SD card. 
+ ![PC Screen](/assets/images/serveronline_04.jpg)
+  ![Apache2](/assets/images/serveronline_05.png)
+ 
+ Then I had to install SSH to access the server via Cyberduck. 
+ I can change the index.html file. 
+ 
+ ![File](/assets/images/serveronline_01.jpg)
+ 
+ TO DO: I have to solve how to add assets to the server to load font/images
+ 
+  ![File](/assets/images/serveronline_02.jpg)
+  Html including Styles and JS
+ 
 
 # Notes
 **Quick notes:**
