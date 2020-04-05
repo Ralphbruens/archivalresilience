@@ -123,21 +123,23 @@ Make a platform for people sharing their thoughts on making your own (pirate)Rad
 Using a RaspberryPi. Start to host the LAB Platform on selfmade, 'indipented webserver:
 The Process 
 
-![Materials](/assets/images/serveronline_03.jpg)
+
  | **Materials** |    
  | ------------- |
  | Raspberry Pi + SD Card| 
  | Internet Cabel| 
  | Keyboard| 
  
+ ![Materials](/assets/images/serveronline_03.jpg)
+ 
  To access the server on the raspberry pi I installed Raspbian and Apache2 on the SD card. 
  ![PC Screen](/assets/images/serveronline_04.jpg)   ![Apache2](/assets/images/serveronline_05.png)
 
  
- Then I had to install SSH to access the server via Cyberduck. 
- I can change the index.html file. 
+ Then I had to install SSH file to access the server via Cyberduck. 
+Now I change the index.html file. 
  
- ![File](/assets/images/serveronline_01.png)  ![File](/assets/images/serveronline_06.jpg)
+ ![File](/assets/images/serveronline_01.png) 
 
  
  TO DO: I have to solve how to add assets to the server to load font/images
