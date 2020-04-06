@@ -117,10 +117,13 @@ Make a platform for people sharing their thoughts on making your own (pirate)Rad
 
 ***
 
+
+
 ## LAB Platform 
 ![Sketch Platform](/assets/images/sketch.png)
 
 [LAB](http://lab.ralphbruens.com)
+
 
 ### Making my own webserver
 Using a RaspberryPi. Start to host the LAB Platform on selfmade, 'independent' webserver:
@@ -130,6 +133,9 @@ The Process:
  | Raspberry Pi + SD Card| 
  | Internet Cabel| 
  | Keyboard| 
+ <details>
+  <summary>Click to expand!</summary>
+  
  
  ![Materials](/assets/images/serveronline_03.jpg)
  > The webserver!
@@ -152,6 +158,7 @@ Now I change the index.html file.
   ![File](/assets/images/serveronline_02.png)
   >  Html including Styles
   
+</details>
 ***
 
 ## Trading Card Game
