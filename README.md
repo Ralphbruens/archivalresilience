@@ -101,6 +101,9 @@ Make a platform for people sharing their thoughts on making your own (pirate)Rad
 
 # Experiments of transcoding
 
+<details>
+  <summary>Quick Sketches</summary>
+    
 ![Raspberry Pi Test ](/assets/images/raspperrypitest.jpg)
 ###### Home experiment with Raspberry Pi, create my own mini pirate radio
 
@@ -113,11 +116,9 @@ Make a platform for people sharing their thoughts on making your own (pirate)Rad
 [https://www.youtube.com/channel/UCBS_w8jnLaJKNyx4r4EPJ3g]
 
 [![Set up a PIRATE RADIO - Introduction (link in description)](http://img.youtube.com/vi/cE5evaVNcL0/0.jpg)](http://www.youtube.com/watch?v=cE5evaVNcL0 "Set up a PIRATE RADIO - Introduction (link in description)")
-
+</details>
 
 ***
-
-
 
 ## LAB Platform 
 ![Sketch Platform](/assets/images/sketch.png)
@@ -127,15 +128,15 @@ Make a platform for people sharing their thoughts on making your own (pirate)Rad
 
 ### Making my own webserver
 Using a RaspberryPi. Start to host the LAB Platform on selfmade, 'independent' webserver:
-The Process:
+
  | **Materials** |    
  | ------------- |
  | Raspberry Pi + SD Card| 
  | Internet Cabel| 
  | Keyboard| 
+ 
  <details>
-  <summary>Click to expand!</summary>
-  
+  <summary>Process</summary>
  
  ![Materials](/assets/images/serveronline_03.jpg)
  > The webserver!
@@ -159,10 +160,29 @@ Now I change the index.html file.
   >  Html including Styles
   
 </details>
+
+***
+
+## OCR Techinque
+
+ | **Material** |    
+ | ------------- |
+ | PDF Reader| 
+ | Tesseract JS| 
+
+![OCR Test ](/assets/images/ocr.png)
+###### I used the OCR technology on the PDF but it has not the desired effect
+
+TO DO: https://tesseract.projectnaptha.com/
+
 ***
 
 ## Trading Card Game
 
+ | **Material** |    
+ | ------------- |
+ | Paper| 
+ 
 Breaking the artifact into a trading card system. Differet artwork, different information and the complete set will rebuild the whole artifact.
 
 Three Different Cards: -Information Card -Radio Station Card and -Instruction Card
