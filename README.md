@@ -173,7 +173,13 @@ Now I change the index.html file.
 ![OCR Test ](/assets/images/ocr.png)
 ###### I used the OCR technology on the PDF but it has not the desired effect
 
-TO DO: https://tesseract.projectnaptha.com/
+Tesseract JS
+<details>
+  <summary>Process</summary>
+ 
+
+
+
 
 ***
 
