@@ -180,13 +180,15 @@ I research the possiblitlies of Tesseract Js
     ![OCR Test ](/assets/images/ocr.png)
 
 Then I learn the program to isolate the Images and Paterns.
-It not flawless.
+
 </details>
 
-## Tradaiotn of Patterns
+## The Patterns
 
+Using the pattern
+Textile/Dye 
 
-
+IN PROCESS
 
 ***
 
@@ -205,6 +207,7 @@ Three Different Cards: -Information Card -Radio Station Card and -Instruction Ca
 >  Sketches Cards
 
 TO DO: Invent Card Game rules. (Build your own radio ? )
+
 
 ***
 # Notes
