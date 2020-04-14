@@ -173,10 +173,17 @@ Now I change the index.html file.
 ![OCR Test ](/assets/images/ocr.png)
 ###### I used the OCR technology on the PDF but it has not the desired effect
 
-Tesseract JS
+## Tesseract JS
 <details>
   <summary>Process</summary>
- 
+I research the possiblitlies of Tesseract Js
+    ![OCR Test ](/assets/images/ocr.png)
+
+Then I learn the program to isolate the Images and Paterns.
+It not flawless.
+</details>
+
+## Tradaiotn of Patterns
 
 
 
