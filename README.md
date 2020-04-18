@@ -227,7 +227,7 @@ TO DO: Invent Card Game rules. (Build your own radio ? )
 
 [Meme Hustler](https://wiki.gda.digital/index.php?title=The_Meme_Hustler) by Evgeny Morozov, April 2013
 
-
+https://www.theverge.com/2019/11/25/20976885/pirate-radio-podcast-illegal-special-series-verge-afghan-djs-hmong-diaspora
 
 ### Terms:
 ```
