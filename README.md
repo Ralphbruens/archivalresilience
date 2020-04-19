@@ -123,9 +123,10 @@ Make a platform for people sharing their thoughts on making your own (pirate)Rad
 ## LAB Platform 
 ![Sketch Platform](/assets/images/sketch.png)
 
-[LAB](http://lab.ralphbruens.com)
-
-
+![Site](/assets/images/LAB.png)
+### [LAB](https://ralphbruens.github.io/LAB/)
+ > Sketch
+ 
 ### Making my own webserver
 Using a RaspberryPi. Start to host the LAB Platform on selfmade, 'independent' webserver:
 
@@ -178,17 +179,24 @@ Now I change the index.html file.
   <summary>Process</summary>
 I research the possiblitlies of Tesseract Js
     ![OCR Test ](/assets/images/ocr.png)
+    
 
-Then I learn the program to isolate the Images and Paterns.
-
+#### Then I learn the program to isolate the Images and Paterns.
+![OCR Test ](/assets/images/tessarect.png)
+[Pdf Image Only](/assets/pdf/imageonly.pdf)
 </details>
+
+# Analogue
+
 
 ## The Patterns
 
 Using the pattern
 Textile/Dye 
-
+![Orginal pattern ](/assets/images/OGpattern.png)
 IN PROCESS
+Using an old technique, Dye the fabric. 'this one is a happy acciedent but I try to make more.
+![Orginal pattern ](/assets/images/dyetest.jpg)
 
 ***
 
