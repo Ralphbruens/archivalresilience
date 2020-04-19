@@ -250,10 +250,13 @@ Using an old technique, Dye the fabric. 'this one is a happy acciedent but I try
  | ------------- |
  | Paper| 
  
- |               | | 
-| ------------- ||
-| Why this transcoding| Use the fragmented text in the publication for a new media ||
-| What to achieve | Trading card Game to educate people about pirate radio||
+
+
+| | |    
+ | ------------- |-------------|
+ | Why this transcoding| Use the fragmented text in the publication for a new media |
+ | What to achieve| Trading card Game to educate people about pirate radio|
+ 
  
  <details>
 Breaking the artifact into a trading card system. Differet artwork, different information and the complete set will rebuild the whole artifact.
