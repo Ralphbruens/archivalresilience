@@ -126,6 +126,9 @@ Make a platform for people sharing their thoughts on making your own (pirate)Rad
 ***
 
 ## LAB Platform
+LAB is a trans-departmental platfrom to research, transcoding and develope idea's in the frame of (public) distribution, independent broadcasting and network piracy.
+
+This website is put together in the spirit of THE pirate bible: Radio is my bomb.
 
  | **Materials** |    
  | ------------- |
@@ -137,7 +140,8 @@ Make a platform for people sharing their thoughts on making your own (pirate)Rad
 ![Site](/assets/images/Lab.png)
 
 ### Making my own webserver
-Using a RaspberryPi. Start to host the LAB Platform 'independent' webserver:
+
+
 
  | **Materials** |    
  | ------------- |
