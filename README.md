@@ -135,11 +135,12 @@ This website is put together in the spirit of THE pirate bible: Radio is my bomb
  | Raspberry Pi + SD Card| 
  | Internet| 
  | HTML CSS JS |
- 
-|               |   |
-| ------------- ||
-| Why this transcoding| The artifact is outdated, both physical and content||
-| What to achieve | A (digital) publication with updated content. ||
+
+ | | |    
+ | ------------- |-------------|
+ | Why | The artifact is outdated, both physical and content |
+ | What |  A (digital) publication with updated content. |
+ | How | Website / Own media server |
 
  
  #### [LAB](https://ralphbruens.github.io/LAB/)
@@ -192,10 +193,11 @@ Now I change the index.html file.
  | PDF Reader| 
  | Tesseract JS| 
  
- |               |   |
-| ------------- ||
-| Why this transcoding| Old and new techonlgies clash with eachother. Can they also help each other in case of preservation?||
-| What to achieve | Different ways of using the modern Optical Regonition software, how far can we go with this?||
+ | | |    
+ | ------------- |-------------|
+ | Why | Old and new techonlgies clash with eachother. Can they also help each other in case of preservation? |
+ | What | Different ways of using the moderns oftware|
+ | How | Optical Regonition software |
  
 <details>
     
@@ -223,7 +225,6 @@ I research the possiblitlies of Tesseract Js
 # Analogue
 
 ## The Patterns
-Preservation of this artifact is not only about content but the visuals tell maybe more about the artifact
 
 | **Material** |    
 | ------------- |
