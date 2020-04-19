@@ -169,7 +169,6 @@ Now I change the index.html file.
 </details>
 </details>
 
-***
 
 ## OCR Techinque
 
@@ -177,15 +176,18 @@ Now I change the index.html file.
  | ------------- |
  | PDF Reader| 
  | Tesseract JS| 
+ 
 <details>
 ![OCR Test ](/assets/images/ocr.png)
 > I used the OCR technology on the PDF but it has not the desired effect
+</details>
+
 
 ## Tesseract JS
-
-  <summary>Process</summary>
+<details>
+<summary>Process</summary>
 I research the possiblitlies of Tesseract Js
-    ![OCR Test ](/assets/images/ocr.png)
+![OCR Test ](/assets/images/ocr.png)
     
 
 #### Then I learn the program to isolate the Images and Paterns.
@@ -193,6 +195,7 @@ I research the possiblitlies of Tesseract Js
 [Pdf Image Only](/assets/pdf/radio-is-my-bomb-part-1_withouttext.pdf)
 
 </details>
+
 # Analogue
 
 ## The Patterns
@@ -201,6 +204,7 @@ I research the possiblitlies of Tesseract Js
 | ------------- |
 | Dye| 
 | Textile| 
+
 <details>
 ![Orginal pattern ](/assets/images/OGpattern.png)
 
@@ -215,6 +219,7 @@ Using an old technique, Dye the fabric. 'this one is a happy acciedent but I try
  | **Material** |    
  | ------------- |
  | Paper| 
+ 
  <details>
 Breaking the artifact into a trading card system. Differet artwork, different information and the complete set will rebuild the whole artifact.
 
