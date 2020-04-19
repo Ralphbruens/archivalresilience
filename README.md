@@ -136,10 +136,10 @@ This website is put together in the spirit of THE pirate bible: Radio is my bomb
  | Internet| 
  | HTML CSS JS |
  
-|               |   
-| ------------- |
-| Why this transcoding| The artifact is outdated, both physical and content|
-| What to achieve | A (digital) publication with updated content. |
+|               |   |
+| ------------- ||
+| Why this transcoding| The artifact is outdated, both physical and content||
+| What to achieve | A (digital) publication with updated content. ||
 
  
  #### [LAB](https://ralphbruens.github.io/LAB/)
@@ -192,10 +192,10 @@ Now I change the index.html file.
  | PDF Reader| 
  | Tesseract JS| 
  
- |               |   
-| ------------- |
-| Why this transcoding| Old and new techonlgies clash with eachother. Can they also help each other in case of preservation?|
-| What to achieve | Different ways of using the modern Optical Regonition software, how far can we go with this?|
+ |               |   |
+| ------------- ||
+| Why this transcoding| Old and new techonlgies clash with eachother. Can they also help each other in case of preservation?||
+| What to achieve | Different ways of using the modern Optical Regonition software, how far can we go with this?||
  
 <details>
     
@@ -230,10 +230,10 @@ Preservation of this artifact is not only about content but the visuals tell may
 | Dye| 
 | Textile| 
 
-|               |   
-| ------------- |
-| Why this transcoding|Preservation of this artifact is not only about content but the visuals tell maybe more about the artifact |
-| What to achieve |Using analogue technique, recreate pattern and context|
+|               |   |
+| ------------- ||
+| Why this transcoding|Preservation of this artifact is not only about content but the visuals tell maybe more about the artifact ||
+| What to achieve |Using analogue technique, recreate pattern and context||
 
 <details>
 ![Orginal pattern ](/assets/images/OGpattern.png)
@@ -250,10 +250,10 @@ Using an old technique, Dye the fabric. 'this one is a happy acciedent but I try
  | ------------- |
  | Paper| 
  
- |               |   
-| ------------- |
-| Why this transcoding| Use the fragmented text in the publication for a new media |
-| What to achieve | Trading card Game to educate people about pirate radio|
+ |               | | 
+| ------------- ||
+| Why this transcoding| Use the fragmented text in the publication for a new media ||
+| What to achieve | Trading card Game to educate people about pirate radio||
  
  <details>
 Breaking the artifact into a trading card system. Differet artwork, different information and the complete set will rebuild the whole artifact.
