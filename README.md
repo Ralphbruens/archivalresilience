@@ -128,12 +128,9 @@ Make a platform for people sharing their thoughts on making your own (pirate)Rad
  | Internet| 
  | HTML CSS JS |
  
+ #### [LAB](https://ralphbruens.github.io/LAB/)
+![Site](/assets/images/Lab.png)
 
-![Sketch Platform](/assets/images/sketch.png)
-
-![Site](/assets/images/LAB.png)
-### [LAB](https://ralphbruens.github.io/LAB/)
- > Sketch
 <details>
 ### Making my own webserver
 Using a RaspberryPi. Start to host the LAB Platform on selfmade, 'independent' webserver:
@@ -167,6 +164,8 @@ Now I change the index.html file.
  
   ![File](/assets/images/serveronline_02.png)
   >  Html including Styles
+  
+  ![Sketch Platform](/assets/images/sketch.png)
   
 </details>
 </details>
