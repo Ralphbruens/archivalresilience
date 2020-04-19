@@ -131,9 +131,8 @@ Make a platform for people sharing their thoughts on making your own (pirate)Rad
  #### [LAB](https://ralphbruens.github.io/LAB/)
 ![Site](/assets/images/Lab.png)
 
-<details>
 ### Making my own webserver
-Using a RaspberryPi. Start to host the LAB Platform on selfmade, 'independent' webserver:
+Using a RaspberryPi. Start to host the LAB Platform 'independent' webserver:
 
  | **Materials** |    
  | ------------- |
