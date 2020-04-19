@@ -230,10 +230,11 @@ Preservation of this artifact is not only about content but the visuals tell may
 | Dye| 
 | Textile| 
 
-|               |   |
-| ------------- ||
-| Why this transcoding|Preservation of this artifact is not only about content but the visuals tell maybe more about the artifact ||
-| What to achieve |Using analogue technique, recreate pattern and context||
+| | |    
+ | ------------- |-------------|
+ | Why | Preservation of this artifact is not only about content but the visuals tell maybe more about the artifact  |
+ | What | Recreate pattern and context|
+ | How | Using analogue technique |
 
 <details>
 ![Orginal pattern ](/assets/images/OGpattern.png)
@@ -250,12 +251,11 @@ Using an old technique, Dye the fabric. 'this one is a happy acciedent but I try
  | ------------- |
  | Paper| 
  
-
-
 | | |    
  | ------------- |-------------|
- | Why this transcoding| Use the fragmented text in the publication for a new media |
- | What to achieve| Trading card Game to educate people about pirate radio|
+ | Why| Use the fragmented text in the publication to educate people about pirate radio |
+ | What | a Game |
+ | How | Trading Cards |
  
  
  <details>
