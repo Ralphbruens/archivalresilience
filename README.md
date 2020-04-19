@@ -15,6 +15,10 @@
     - [Concepts](https://github.com/Ralphbruens/archivalresilience#Concepts)
     - [Experiments of transcoding](https://github.com/Ralphbruens/archivalresilience#Experiments-of-transcoding)
         - [LAB](https://github.com/Ralphbruens/archivalresilience#LAB-Platform)
+        - [OCR](https://github.com/Ralphbruens/archivalresilience#OCR)
+          - [Tesseract JS](https://github.com/Ralphbruens/archivalresilience#Tesseract-JS)
+    - [Analogue](https://github.com/Ralphbruens/archivalresilience#Analogue)
+        - [The Patterns](https://github.com/Ralphbruens/archivalresilience#The-Patterns)
         - [Trading Card Game](https://github.com/Ralphbruens/archivalresilience#Trading-Card-Game)
 5. [Notes](https://github.com/Ralphbruens/archivalresilience#Notes)
     - [References](https://github.com/Ralphbruens/archivalresilience#References)
@@ -170,7 +174,7 @@ Now I change the index.html file.
 </details>
 
 
-## OCR Techinque
+## OCR
 
  | **Material** |    
  | ------------- |
@@ -178,6 +182,7 @@ Now I change the index.html file.
  | Tesseract JS| 
  
 <details>
+    
 ![OCR Test ](/assets/images/ocr.png)
 > I used the OCR technology on the PDF but it has not the desired effect
 </details>
@@ -187,11 +192,14 @@ Now I change the index.html file.
 <details>
 <summary>Process</summary>
 I research the possiblitlies of Tesseract Js
+    
 ![OCR Test ](/assets/images/ocr.png)
     
 
 #### Then I learn the program to isolate the Images and Paterns.
+
 ![OCR Test ](/assets/images/tessarect.png)
+
 [Pdf Image Only](/assets/pdf/radio-is-my-bomb-part-1_withouttext.pdf)
 
 </details>
