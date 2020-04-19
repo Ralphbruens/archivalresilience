@@ -15,11 +15,9 @@
     - [Concepts](https://github.com/Ralphbruens/archivalresilience#Concepts)
     - [Experiments of transcoding](https://github.com/Ralphbruens/archivalresilience#Experiments-of-transcoding)
         - [LAB](https://github.com/Ralphbruens/archivalresilience#LAB-Platform)
-         
-         -[Making my own webserver](https://github.com/Ralphbruens/archivalresilience#Making-my-own-webserver)
+       [Making my own webserver](https://github.com/Ralphbruens/archivalresilience#Making-my-own-webserver)
         - [OCR](https://github.com/Ralphbruens/archivalresilience#OCR)
-          - [Tesseract JS](https://github.com/Ralphbruens/archivalresilience#Tesseract-JS)
-         
+       [Tesseract JS](https://github.com/Ralphbruens/archivalresilience#Tesseract-JS)   
     - [Analogue](https://github.com/Ralphbruens/archivalresilience#Analogue)
         - [The Patterns](https://github.com/Ralphbruens/archivalresilience#The-Patterns)
         - [Trading Card Game](https://github.com/Ralphbruens/archivalresilience#Trading-Card-Game)
