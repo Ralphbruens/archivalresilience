@@ -238,6 +238,7 @@ I research the possiblitlies of Tesseract Js
  | How | Using analogue technique |
 
 <details>
+    
 ![Orginal pattern ](/assets/images/OGpattern.png)
 
 IN PROCESS
