@@ -219,6 +219,10 @@ I research the possiblitlies of Tesseract Js
 
 ![OCR Test ](/assets/images/tessarect.png)
 
+First outcome from an image:
+
+J>· :.>mv. 111, II' c> 'I" 2 , - , 0 IT• ~ o C C\ .,, V. "' I/' ['2 . C r, () I'!< I I ;1;--1111' 2,.._, : ""00 ,j o,-o () :;. 0 0 ~t?,!~-' :I !II -4-< • ltt 7) -c. .,1 ~11--))t o ,';. :,. ;:, ::;\.,. .t'l--t' ~ z. i-'.l ~ X ~ - -1 (TI il'I"'"' ~ 0 fh (' • C ~ il-1 ~ c -1 ~ E: I ?~("'• Oil' .-1 "'m rr1+,1 "~" & ~ w-I V"," 't -> v- "'c i . 2 ~ C ::i: c., ~ ,j c;- ,, C !"m (II Ill 'O 2 )lo ,.l> '( < £" r--\ ~ fn(/l;pr.•:\I'- I;\ -,. ();;,< i"~ t-J •.{:' " - s:or, ►"' oO l - i-' < N r !'.; . ,, ~ ~ ~ .,, "' - tri .., ,.. ., • 1 ► R-1:ii6 (' :."' ot" 1:.~f ;.: ~ I) 0 ().,,.) 0 t 1'l '"· l . ~ .,.. -0 rr• . '-1" ;,:.I~.;,[ _ J: 2 ci-)lllm-4 ,"." ..,s :: &' - \! .f" ~~ r J "' "(, '. . l ~a u I ~ ~.l,~t ri..= I ,.. ~ I 'I\ .._. e --1 ("') 0 )> G") N z (11 Ul I.O ,.., ()'I :E )> --1 --
+
 [Pdf Image Only](/assets/pdf/radio-is-my-bomb-part-1_withouttext.pdf)
 
 </details>
