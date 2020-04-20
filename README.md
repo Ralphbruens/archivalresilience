@@ -123,7 +123,6 @@ Make a platform for people sharing their thoughts on making your own (pirate)Rad
 [![Set up a PIRATE RADIO - Introduction (link in description)](http://img.youtube.com/vi/cE5evaVNcL0/0.jpg)](http://www.youtube.com/watch?v=cE5evaVNcL0 "Set up a PIRATE RADIO - Introduction (link in description)")
 </details>
 
-***
 
 ## LAB Platform
 LAB is a trans-departmental platfrom to research, transcoding and develope idea's in the frame of (public) distribution, independent broadcasting and network piracy.
@@ -245,7 +244,6 @@ IN PROCESS
 Using an old technique, Dye the fabric. 'this one is a happy acciedent but I try to make more.
 ![Orginal pattern ](/assets/images/dyetest.jpg)
 </details>
-***
 
 ## Trading Card Game
 
@@ -272,7 +270,6 @@ Three Different Cards: -Information Card -Radio Station Card and -Instruction Ca
 TO DO: Invent Card Game rules. (Build your own radio ? )
 </details>
 
-***
 # Notes
 **Quick notes:**
  | **To the archive** | **Research** |    
