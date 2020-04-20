@@ -145,6 +145,8 @@ This website is put together in the spirit of THE pirate bible: Radio is my bomb
  #### [LAB](https://ralphbruens.github.io/LAB/)
 ![Site](/assets/images/Lab.png)
 
+TO DO: Use Markov Chain in Python for making the text on the website based on the orignal text
+
 ### Making my own webserver
 
 
