@@ -273,7 +273,7 @@ Three Different Cards: -Information Card -Radio Station Card and -Instruction Ca
 ![Card](/assets/images/cardsprocess2.jpg) 
 >  Sketches Cards
 
-TO DO: Invent Card Game rules. (Build your own radio ? )
+
 </details>
 
 # Notes
